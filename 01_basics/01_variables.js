@@ -10,9 +10,10 @@ let num=4.555666777
 let name="INDIA"
 //accountId=2// not allowed
 console.log(accountId);
+let name1="rambo"
 
 /* prefer not to use var ,because it will change everywhere when we cahnge it once */
-console.table([accountEmail,accountpassword,accountCity,accountState,num,name]);
+console.table([accountEmail,accountpassword,accountCity,accountState,num,name,name1]);
 
 
 
